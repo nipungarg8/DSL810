@@ -1,12 +1,11 @@
 # DSL810
 
-
 ## Team Mates
   - Kaivalya Swami
   - Nipun Garg
-  - Tushita Approach
+  - Tushita Sharma
   
- This repository contains a major project and assignment for the course.
+ This repository contains the course project and assignments for the course.
  
- # Assignment 1
-    Project Proposal.
+ # Assignments
+- [Assignment1](./Assignment1): Project propsal. 
