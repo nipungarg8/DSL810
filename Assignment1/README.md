@@ -10,6 +10,9 @@ Deaf community remains so cut off from our society. We are too far from what can
 The aim of our project is to provide more opportunities to the deaf people and make them a part of our society. We aim to develop a system that helps real time recognition so they can communicate with the other people and feel inclusive in the society and have proper education and can grow in life.  
 There has been a lot of work<sup>1</sup> already done on ASL recognition as it is a widely learnt language all over the globe. Indian Sign Language, which is at a premature state and due to which few attempts that try to convert speech to sign and sign to speech have failed. ASL uses a single hand in the gesture representation and it is simple compared to ISL. ISL uses both the hands for gesture representation and it is complex compared to ASL. Because of this reason, there is less research and development in this field. 
 
+![](./images/signs.png)
+
+
 
 
 ### Final Aim / Ideas
@@ -33,11 +36,9 @@ There are many things to be done in this domain. For our project we aim to aim a
 “What are the current SoTA systems for sign language recognition of ISL? In what ways can we improve to reach near the ASL technology and what are the major challenges ?”
 We will explore this problem and aim to make a real-time recognition system for ISL signs. By the end of the project we also aim to make a real time sign recognition system for ISL.
 
-Check Points. ( I cannot think of a timeline)
+## Check Points. (We cannot think of a timeline)
 
 To go to build the final models will be a very difficult task. Referring the spiral technique to develop our project, we came up with a series of milestones that we aim to achieve as we proceed with our project. Coming up with a timeline is difficult for us, as we don’t have enough expertise to even say we can achieve all aims.
-
-
 
 ### Checkpoints for our model
 - Classification of some basic signs. (To learn Pytorch and so).
