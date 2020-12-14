@@ -4,4 +4,4 @@
 ![](./images/slide.png)
 
 ### Video
-[![IMAGE ALT TEXT HERE](./images/th.png)](https://www.youtube.com/watch?v=AXy_5ejrBzA)
+[![IMAGE ALT TEXT HERE](./images/th.png)](https://www.youtube.com/watch?v=NxdqQqyCSgI)
